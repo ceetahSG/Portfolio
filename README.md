@@ -52,10 +52,10 @@ I’m focused on building practical tools, growing with open-source communities,
    Ongoing problem-solving journey for ICPC-style preparation.
 
 ## 🌐 Connect
-- GitHub: https://github.com/ceetahSG
-- LinkedIn: https://www.linkedin.com/in/md-sajim-452195244/
-- Email: sajim.ceetah@gmail.com
-- Portfolio: (add your deployed portfolio URL)
+- GitHub: [ceetahSG](https://github.com/ceetahSG)
+- LinkedIn: [md-sajim-452195244](https://www.linkedin.com/in/md-sajim-452195244/)
+- Email: [sajim.ceetah@gmail.com](mailto:sajim.ceetah@gmail.com)
+- Portfolio: TBD
 ```
 
 ---
@@ -143,4 +143,3 @@ Keep your profile readable and professional:
 3. Re-pin repositories using section 3.
 4. Run section 4 checklist on each pinned repo.
 5. Update profile every month using section 7.
-
