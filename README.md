@@ -55,7 +55,7 @@ I’m focused on building practical tools, growing with open-source communities,
 - GitHub: [ceetahSG](https://github.com/ceetahSG)
 - LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/md-sajim-452195244/)
 - Email: [sajim.ceetah@gmail.com](mailto:sajim.ceetah@gmail.com)
-- Portfolio: https://your-portfolio-url.com
+- Portfolio: https://your-portfolio-url.com (update with actual URL)
 ```
 
 ---
@@ -91,7 +91,8 @@ For each pinned repository, ensure:
 - [ ] **Demo** link and/or screenshots/GIFs
 - [ ] **Results/Impact** (speed, usage, accuracy, time saved, etc.)
 - [ ] Relevant GitHub **Topics/Tags**
-- [ ] Clean issue labels and maintain tidy commits (clear messages, avoid frequent WIP/noise commits on default branch)
+- [ ] Clean issue labels
+- [ ] Maintain tidy commits (clear messages, avoid frequent WIP/noise commits on default branch)
 
 ---
 
