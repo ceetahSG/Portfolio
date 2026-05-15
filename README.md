@@ -55,7 +55,7 @@ I’m focused on building practical tools, growing with open-source communities,
 - GitHub: [ceetahSG](https://github.com/ceetahSG)
 - LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/md-sajim-452195244/)
 - Email: [sajim.ceetah@gmail.com](mailto:sajim.ceetah@gmail.com)
-- Portfolio: https://your-portfolio-url.com (update with actual URL)
+- Portfolio: https://example.com (replace with your real URL)
 ```
 
 ---
@@ -126,7 +126,7 @@ Keep your profile readable and professional:
 ## 7) Activity System (Weekly/Monthly)
 
 ### Weekly
-- push at least one meaningful commit to a real repo
+- push at least one meaningful commit to an active project repository
 - improve one README section or add one visual demo
 - engage in 1–2 relevant issues/discussions/PR reviews
 
